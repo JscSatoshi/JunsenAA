@@ -1,1 +1,0 @@
-Connect-MgGraph -TenantId "08519609-343d-4644-a637-88791feb8e02" -ClientSecretCredential $Credential
